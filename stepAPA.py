@@ -10,6 +10,18 @@ def step_fold(data):
         if so, extend the range of the pair to data n+1 and look at the next
         if no, save te range, start a new one,
 
+    then, compare numbers as char to find places to move
+    (101, 110)
+    1 == 1
+    0 != 1
+    1
+
+    print first number
+    101-
+    at unequal point onward, print chars from second number
+    10
+
+    result = 101-10
 
     """
 
